@@ -1,0 +1,10 @@
+1. Change all components inside containers folder as connected components.
+ Develop neccessary redux artifacts(Fixed this thing)
+2. Add a new tab called search and attach a search component (please refer to sample screen named "assignment reference.png"
+available in assets folder)
+    a. Search results must be shown using FlatList(fixed this thing)
+3. Add a new tab Admin which lists the products same as List tab but replace heart icon with delete icon.
+ When tapped on
+delete take the confirmation of the user and delete the same on YES and do not delete on NO. 
+When delete is success 
+please vibrate the device for a second(Fixed this thing).
